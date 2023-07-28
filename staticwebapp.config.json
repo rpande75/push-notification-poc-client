@@ -3,13 +3,6 @@
     "navigationFallback": {
         "rewrite": "/index.html"
     },
-     "routes": [
-     {
-     "route": "/webapp/*",
-     "rewrite": "/*"
-     }
-     ],
-
     "networking": {
       "allowedIpRanges": ["AzureFrontDoor.Backend"]
     },
