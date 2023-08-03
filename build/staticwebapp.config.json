@@ -1,8 +1,6 @@
 
 {
-     "navigationFallback": {
-        "rewrite": "webapp/index.html"
-    },
+    
      "networking": {
       "allowedIpRanges": ["AzureFrontDoor.Backend"]
     },
